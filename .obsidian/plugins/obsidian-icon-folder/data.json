@@ -1,0 +1,95 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": "#ff0000",
+    "recentlyUsedIcons": [
+      "RaPotion",
+      "RaCrossedSwords",
+      "LiSword",
+      "🏝",
+      "📜"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "_Templates": {
+    "iconName": "LiBookTemplate",
+    "iconColor": "#ffffff"
+  },
+  "Characters": {
+    "iconName": "RaDoubleTeam",
+    "iconColor": "#4df3ff"
+  },
+  "Images": {
+    "iconName": "LiImage",
+    "iconColor": "#00ff11"
+  },
+  "MonsterArchive": "RaDragon",
+  "Unsorted": "📚",
+  "Characters/NPC's": {
+    "iconName": "RaPlayer",
+    "iconColor": "#57dd55"
+  },
+  "Characters/NPC's/God's": {
+    "iconName": "RaSunbeams",
+    "iconColor": "#ffc64d"
+  },
+  "Playercharacters": "RaPlayerPyromaniac",
+  "Playercharacters/CharacterSheets": {
+    "iconName": "RaHelmet",
+    "iconColor": "#006eff"
+  },
+  "Battle Helpers": {
+    "iconName": "RaCrossedSwords",
+    "iconColor": "#dbdbdb"
+  },
+  "Spells": {
+    "iconName": "RaPotion",
+    "iconColor": "#0fb7ff"
+  },
+  "WorldBuilding/Sessions story so far": "🗣",
+  "WorldBuilding/Sessions future plan": "✍",
+  "WorldBuilding/Main Story": {
+    "iconName": "LiBookOpenText",
+    "iconColor": "#ffffff"
+  },
+  "WorldBuilding/History": {
+    "iconName": "LiHistory",
+    "iconColor": "#fbff00"
+  },
+  "WorldBuilding/Locations": "📜",
+  "WorldBuilding/Locations/Vivestera": "🌏",
+  "WorldBuilding/Locations/Vivestera/Continents": "🗾",
+  "WorldBuilding/Locations/Vivestera/The World Map.md": "🗺",
+  "WorldBuilding/Locations/Vivestera/Continents/Aridonia": "🏝",
+  "WorldBuilding/Locations/Vivestera/Continents/Austra": "🏝",
+  "WorldBuilding/Locations/Vivestera/Continents/Boreas": "🏝",
+  "WorldBuilding/Locations/Vivestera/Continents/Helica": "🏝",
+  "WorldBuilding/Locations/Vivestera/Continents/Orynt": "🏝",
+  "WorldBuilding/Locations/Vivestera/Continents/Sunder-Isle": "🏝",
+  "WorldBuilding/Locations/Vivestera/Continents/The Girdle": "🏝",
+  "WorldBuilding/Locations/Vivestera/Continents/Aridonia/Kingdoms": "🏰",
+  "WorldBuilding/Locations/Vivestera/Continents/Aridonia/Vorth Empire": "🏯"
+}

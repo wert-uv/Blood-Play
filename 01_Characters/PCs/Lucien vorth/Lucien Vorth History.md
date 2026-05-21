@@ -1,0 +1,5 @@
+Born to [[Nimbifer vorth]] and [[Aethra humo]] lucien is a Half human dragonborn hybrid. his mother died soon after giving birth to him and His father though keeping him away from himself cared for him deeply as he gave him away to their godfather the progenitor an [[Ancient Emerald Dragon]]. who taught him everything he knows about magic and the world. when he got old enough his father brought him to his kingdom to introduce him as the rightful heir to the throne, but that is a night lucien wont forget as he saw men in red robes fall from the sky killing everyone in room with the last ounce of his strength his father held them off long enough so he could get away from the harms way.
+but that didn't last long as they hunted him down and sent him in the nex void.
+
+# Childhood
+Lucien was kept a secret from the world put away in a lair almost as an offering to the progenitor. He never really got to see much of his father or of any other being other than the progenitor. spending most of his time learning about magic ,  

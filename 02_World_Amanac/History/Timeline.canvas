@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"e15ddd6e651a9729","x":-465,"y":439,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d9fefd6d8ab56d83","type":"file","file":"02_World_Amanac/History/Times/1_Before Fracture.md","x":-1040,"y":-149,"width":400,"height":400},
+		{"id":"7a46a324822982e0","type":"file","file":"02_World_Amanac/History/Times/2_After Fracture.md","x":-520,"y":-149,"width":400,"height":400},
+		{"id":"b75fade6be74cf07","type":"file","file":"02_World_Amanac/History/Times/3_Dawn of Gods.md","x":0,"y":-149,"width":400,"height":400},
+		{"id":"de87d10ab8966466","type":"file","file":"02_World_Amanac/History/Times/4_After Banishment.md","x":520,"y":-149,"width":400,"height":400},
+		{"id":"6010e8625d73c41d","type":"file","file":"02_World_Amanac/History/Times/5_Era Of War.md","x":1040,"y":-149,"width":400,"height":400},
+		{"id":"e6253223774ee364","type":"file","file":"02_World_Amanac/History/Times/6_The New Age.md","x":1560,"y":-149,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"2d15ed98a53723f6","fromNode":"d9fefd6d8ab56d83","fromSide":"right","toNode":"7a46a324822982e0","toSide":"left"},
+		{"id":"b70b16ea7099333d","fromNode":"7a46a324822982e0","fromSide":"right","toNode":"b75fade6be74cf07","toSide":"left"},
+		{"id":"0cc1e7d50ac659a5","fromNode":"b75fade6be74cf07","fromSide":"right","toNode":"de87d10ab8966466","toSide":"left"},
+		{"id":"9d811fad471f3e65","fromNode":"de87d10ab8966466","fromSide":"right","toNode":"6010e8625d73c41d","toSide":"left"},
+		{"id":"8f7e278fd32b1fe8","fromNode":"6010e8625d73c41d","fromSide":"right","toNode":"e6253223774ee364","toSide":"left"}
+	]
+}

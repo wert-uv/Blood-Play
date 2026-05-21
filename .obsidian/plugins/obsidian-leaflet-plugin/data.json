@@ -1,0 +1,574 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Vivestera",
+      "lastAccessed": 1778412081775,
+      "markers": [
+        {
+          "id": "ID_18aa1a381ab8",
+          "type": "default",
+          "loc": [
+            519.7500457763672,
+            1686.5001220703125
+          ],
+          "link": "Aridonia",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "This is the Continent Where Blood Play Takes Place",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa080b184a09",
+          "type": "default",
+          "loc": [
+            970.7500305175781,
+            1566.300048828125
+          ],
+          "link": "Orynt",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8e8e87a7879",
+          "type": "default",
+          "loc": [
+            1066.3500061035156,
+            980.7000732421875
+          ],
+          "link": "The Girdle",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa396a3ad83a",
+          "type": "default",
+          "loc": [
+            772.4499969482422,
+            987.9499969482422
+          ],
+          "link": "Helica",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9647949188947678,
+            -1.0057942668596904
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a98f9b9987a",
+          "type": "default",
+          "loc": [
+            473.9500427246094,
+            972.7000732421875
+          ],
+          "link": "Sunder-Isle",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f83a0b58bba9",
+          "type": "default",
+          "loc": [
+            469.9500427246094,
+            398.300048828125
+          ],
+          "link": "Austra",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a4bd8b94b59",
+          "type": "default",
+          "loc": [
+            977.9500427246094,
+            484.300048828125
+          ],
+          "link": "Boreas",
+          "layer": "%5B%5BVivestera.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "02_World_Amanac/Atlas/4_Vivestera/Vivestera.md"
+      ]
+    },
+    {
+      "id": "Aridonia",
+      "locked": false,
+      "lastAccessed": 1778412081775,
+      "markers": [
+        {
+          "id": "ID_dacaea7b3b59",
+          "type": "default",
+          "loc": [
+            1185.6875,
+            230.625
+          ],
+          "link": "Bittermarsh",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Bittermarsh is the birthplace of strarrul greenskin",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbea19793a18",
+          "type": "default",
+          "loc": [
+            1070.559666716433,
+            284.3983128665311
+          ],
+          "link": "Kingdom Of Rust",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1388663637043609,
+            -0.6969789496851777
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9baa290b8868",
+          "type": "default",
+          "loc": [
+            1062.4874725341797,
+            504.625
+          ],
+          "link": "City of Fyllo Draya",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The State that attacked Bittermarsh\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9586ab97828",
+          "type": "default",
+          "loc": [
+            867.6875,
+            356.125
+          ],
+          "link": "Dwarven Kingdom Of Ayaman",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbe849099929",
+          "type": "default",
+          "loc": [
+            753.6874694824219,
+            287.32501220703125
+          ],
+          "link": "Ruins of Prauka",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8d9985ac94b",
+          "type": "default",
+          "loc": [
+            683.6308705778524,
+            378.1606547885181
+          ],
+          "link": "Fort of Rettivis",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1846487572209561,
+            -0.44507218136578935
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b90a7a289b9a",
+          "type": "default",
+          "loc": [
+            762.7999877929688,
+            525.4000244140625
+          ],
+          "link": "Fort of Vinstri",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.25654298067092896,
+            -0.49661457538604736
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9283869b889",
+          "type": "default",
+          "loc": [
+            640.8874664306641,
+            508.5250244140625
+          ],
+          "link": "Kingdom of Debrica",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8aea3afa092b",
+          "type": "default",
+          "loc": [
+            656.800048828125,
+            816
+          ],
+          "link": "Kingdom of Cerulea",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3984375,
+            -0.42760419845581055
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca38893a0bdb",
+          "type": "default",
+          "loc": [
+            600.4750440569178,
+            1781.6262286142758
+          ],
+          "link": "SanSerp Desert",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8699346819405643,
+            -0.39093427347455584
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b58a9580abb",
+          "type": "default",
+          "loc": [
+            453.11405991103794,
+            1157.3924139728392
+          ],
+          "link": "Vorth Harbor",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5651330146351754,
+            -0.294996132754582
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b8a3af9d849",
+          "type": "default",
+          "loc": [
+            954.8415815535324,
+            1843.3568577720512
+          ],
+          "link": "Westallis Harbor",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6909caf92b3a",
+          "type": "default",
+          "loc": [
+            509.36430940600746,
+            1580.3131351706556
+          ],
+          "link": "Vorth Empire",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a2809faba28",
+          "type": "default",
+          "loc": [
+            912.1323147065158,
+            1675.9139374603785
+          ],
+          "link": "Vorth Fort",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48aa396a482a",
+          "type": "default",
+          "loc": [
+            683.3479890228422,
+            1278.307630397366
+          ],
+          "link": "Vorth's Manor",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6241736476549639,
+            -0.4448880136867462
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18795a098a9b",
+          "type": "default",
+          "loc": [
+            1087.7000122070312,
+            1529.7999877929688
+          ],
+          "link": "Kingdom of Westallis",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7469726502895355,
+            -0.7081380287806193
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9a8eb9bbbc9",
+          "type": "default",
+          "loc": [
+            1115.1073939311855,
+            880.7722325409873
+          ],
+          "link": "Sprout Kingdom",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43006456667040394,
+            -0.7259813762572822
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da4838dbea6a",
+          "type": "default",
+          "loc": [
+            165.20001220703125,
+            565.6000061035156
+          ],
+          "link": "Ruins of Solivirum",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.27617187798023224,
+            -0.10755209128061931
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bd9897a28c9",
+          "type": "default",
+          "loc": [
+            161.2000732421875,
+            1806
+          ],
+          "link": "Vivestera",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8818359375,
+            -0.10494796435038249
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a99a7be938ab",
+          "type": "default",
+          "loc": [
+            871.9499664306641,
+            1216.1892041012104
+          ],
+          "link": "Western Forest Zones",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_894b3a0b7908",
+          "type": "default",
+          "loc": [
+            1122.7874336242676,
+            398.2910308255009
+          ],
+          "link": "village of selene",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Reference_Material/About Aridonia/Aridonia.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

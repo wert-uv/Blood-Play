@@ -1,0 +1,469 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Vivesterian Calander",
+      "description": null,
+      "id": "ID_3a9b393b3adb",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Zoovan",
+            "id": "ID_784858eaf848",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Elentu",
+            "id": "ID_6b5b2b8a4869",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Demitre",
+            "id": "ID_59bb29597a19",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Genfor",
+            "id": "ID_aa39f97aba29",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Tychfiv",
+            "id": "ID_0b9a990b7818",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Nekrosix",
+            "id": "ID_0a2b98e8ea69",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Aimasev",
+            "id": "ID_c8cb3b5adaea",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Aurumsha",
+            "type": "month",
+            "length": 30,
+            "id": "ID_fa686b7b3a7a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Argensha",
+            "type": "month",
+            "length": 30,
+            "id": "ID_da4ba87b8ac8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Aereusha",
+            "type": "month",
+            "length": 30,
+            "id": "ID_2a094bfbd8e9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Cuprumsha",
+            "type": "month",
+            "length": 31,
+            "id": "ID_68aabb8a7ae9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Hyrosha",
+            "type": "month",
+            "length": 31,
+            "id": "ID_2a6bfa8a8acb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Plumsha",
+            "type": "month",
+            "length": 31,
+            "id": "ID_bb6a08186b5a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Stansha",
+            "type": "month",
+            "length": 30,
+            "id": "ID_ea4a29ab9968",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Ferumsha",
+            "type": "month",
+            "length": 30,
+            "id": "ID_8aa95b19a84b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Wolfsha",
+            "type": "month",
+            "length": 30,
+            "id": "ID_2beae89a6afa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Natrisha",
+            "type": "month",
+            "length": 31,
+            "id": "ID_ba098ac8e8cb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Magnesha",
+            "type": "month",
+            "length": 31,
+            "id": "ID_fa9baafbb998",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Platinsha",
+            "type": "month",
+            "length": 31,
+            "id": "ID_eb888b2a4a18",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Nexus",
+            "cycle": 12.5208333333,
+            "offset": 29,
+            "faceColor": "#a90000",
+            "shadowColor": "#300000",
+            "id": "ID_989a4afab92b"
+          },
+          {
+            "name": "Zenus",
+            "cycle": 30.5208333333,
+            "offset": 29,
+            "faceColor": "#c3c1c1",
+            "shadowColor": "#292b4a",
+            "id": "ID_eaa829a90838"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "name": "Elentu",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              }
+            ],
+            "timespan": 2,
+            "intercalary": false,
+            "numbered": true,
+            "after": 0,
+            "offset": 0,
+            "id": "ID_08684a6a98fb"
+          }
+        ],
+        "eras": [
+          {
+            "id": "ID_5939f8d8e9ab",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Before Fracture",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_2898a84b3a8b",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "After Fracture",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 5000,
+              "month": 5,
+              "day": 16
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_ca9a7a390858",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Dawn Of Gods",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 5999,
+              "month": 11,
+              "day": 31
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_78da69496b58",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "After Banishment",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 8000,
+              "month": 8,
+              "day": 19
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_d9bb79d89848",
+            "endsYear": false,
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Era of War",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 8500,
+              "month": 6,
+              "day": 13
+            },
+            "type": "era",
+            "category": null,
+            "end": {
+              "year": 9987,
+              "month": 3,
+              "day": 15
+            }
+          },
+          {
+            "id": "ID_283aeba8a808",
+            "endsYear": true,
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "The New Age",
+            "description": "",
+            "format": "Era year {{era_year}} (year {{year}}) - {{era_name}}",
+            "date": {
+              "year": 9988,
+              "month": 3,
+              "day": 15
+            },
+            "type": "era",
+            "category": null
+          }
+        ]
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_bac928e9682a",
+            "name": "Spring",
+            "type": "Periodic",
+            "kind": "Winter",
+            "duration": 91.5625,
+            "peak": 0,
+            "color": "#1ee313",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_bbaacb99bae9",
+            "name": "Summer",
+            "type": "Periodic",
+            "kind": "Spring",
+            "duration": 91.5625,
+            "peak": 0,
+            "color": "#e74d0e",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_1ba88859dbe9",
+            "name": "Autmn",
+            "type": "Periodic",
+            "kind": "Summer",
+            "duration": 91.5625,
+            "peak": 0,
+            "color": "#83ccb5",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_798b4b0828d9",
+            "name": "Winter",
+            "type": "Periodic",
+            "kind": "Autumn",
+            "duration": 91.5625,
+            "peak": 0,
+            "color": "#0bcfe9",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": true,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 27,
+        "month": 5,
+        "year": 11987
+      },
+      "events": [
+        {
+          "name": "Spring Equinox",
+          "description": "<p>The spring equinox is when the day and the night are equally as long, and are getting longer.</p>",
+          "id": "3776789",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "<p>\tAt the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.</p>",
+          "id": "3776790",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Autmn",
+          "description": "",
+          "id": "3776791",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "<p>The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.</p>",
+          "id": "3776792",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_3a9b393b3adb",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
