@@ -10,7 +10,7 @@
     2. give it a fixed number of times it can use the spell
     3. Or it will take mana from a willing to cast the spell
     4. or V can role a d4 to decide how many time it can use the magic
-    - [ ] **(current spell)**
+    - [x] **(current spell)**
 
 ## traits
 - when ever it gets to 1 Hp it will magically return to me/pocket dimension
