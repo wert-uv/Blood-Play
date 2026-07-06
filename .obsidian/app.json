@@ -9,5 +9,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Unsorted",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false
 }
