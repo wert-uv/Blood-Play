@@ -86,7 +86,6 @@
           {
             "id": "78eeba12bb487a5c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +93,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Casion Wert"
             }
@@ -114,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -257,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Characters/PCs/Casion Wert/Casion Wert.md",
+                "file": "Species/Hellborn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Casion Wert"
+              "title": "Outline of Hellborn"
             }
           },
           {
@@ -272,8 +270,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -305,12 +303,22 @@
                 "id": "ID_d94918dba91b",
                 "child": "ID_79f88838eaca"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
             "id": "e27f0c0bc2d9d38d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "19cce50ef8fb03b2",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -357,17 +365,16 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "78eeba12bb487a5c",
+  "active": "0c65d0c749643483",
   "lastOpenFiles": [
+    "01_Characters/PCs/Casion Wert/Casion Wert.md",
     "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
     "01_Characters/PCs/Kael Issac/Kael Issac.md",
     "01_Characters/PCs/Green Skin/Strarrul Greenskin.md",
     "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
-    "01_Characters/PCs/Casion Wert/Casion Wert.md",
     "03_Compendium/Items/Weapons/Weapons.md",
     "05_Assets/Templates/CharacterTemplates/CharaterSheetTemplate.md",
     "Prompts/Prompt4.md",

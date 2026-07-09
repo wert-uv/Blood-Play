@@ -9,10 +9,10 @@
 
 | Stat             | Base Score | Modifier |
 | :--------------- | :--------: | :------: |
-| **Strength**     |     +1     |    +0    |
+| **Strength**     |     +1     |    0     |
 | **Resistance**   |     +1     |    +0    |
 | **Intelligence** |     +2     |    +0    |
-| **Health Score** |     +1     |    -     |
+| **Health Score** |     +1     |    0     |
 | **Mana Score**   |     +2     |    -     |
 
 ---
