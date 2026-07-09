@@ -5,7 +5,7 @@
 ---
 
 ## 🛡️ Species Base Stats
-*When creating a character of this species, these are your starting core stats before applying any Class or Attribute points.*
+*When creating a character of this species, these are your starting core stats before applying any Class or Attribute points.* I  love DM
 
 | Stat             | Base Score | Modifier |
 | :--------------- | :--------: | :------: |
