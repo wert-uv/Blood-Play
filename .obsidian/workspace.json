@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting Of The Campaign.md",
+                "file": "Classes/Paladin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting Of The Campaign"
+              "title": "Paladin"
             }
           }
         ]
@@ -184,33 +184,33 @@
   },
   "active": "dd5ee6710a0abdda",
   "lastOpenFiles": [
-    "Rules/Travel.md",
-    "Rules/Stealth.md",
-    "Rules/Take Cover.md",
-    "Rules/Standard Aids.md",
-    "Rules/Scale.md",
-    "Rules/Resting.md",
-    "Rules/leap.md",
-    "Rules/Hold Action.md",
-    "Rules/Grapple.md",
-    "Rules/Fatigues.md",
-    "Rules/Environmental.md",
-    "Rules/Environmental Effects.md",
-    "Rules/Dodge.md",
-    "Rules/Concentration and focus.md",
-    "Rules/Block.md",
-    "Rules/Augmentation.md",
-    "Rules/Assists.md",
-    "Rules/Armor And Equipment.md",
+    "Classes/Wizard.md",
+    "Classes/Fighter.md",
+    "Classes/Barbarian.md",
+    "Classes/Necromancer.md",
+    "Classes/Bard.md",
+    "Classes/Warlock.md",
+    "Classes/Summoner.md",
+    "Classes/Spirit Medium.md",
+    "Classes/Sorcerer.md",
+    "Classes/Rogue.md",
+    "Classes/Paladin.md",
+    "Classes/Ranger.md",
+    "Classes/Monk.md",
+    "Classes/Druid.md",
+    "Classes/Cleric.md",
+    "Classes/Beast Master.md",
+    "Classes/Artificer.md",
+    "Classes/Alchemist.md",
+    "Classes/Runesmith.md",
+    "Classes/Witch.md",
+    "03_Compendium/Spellbook/SpellsByLevels/Level 0 Spells.md",
     "Rules/Aim.md",
     "Rules/Ailments.md",
+    "Setting Of The Campaign.md",
+    "Rules/Travel.md",
+    "Rules/Stealth.md",
     "Rules",
-    "Reference_Material/Minecraft Build (Rust).md",
-    "Changelog.md",
-    "03_Compendium/Main/Quick Acess Weapons.md",
-    "03_Compendium/Main/Quick Access Spells.md",
-    "03_Compendium/Main",
-    "MAIN/Stealth.md",
-    "01_Characters/Relationship Tree.md"
+    "03_Compendium/Main"
   ]
 }
